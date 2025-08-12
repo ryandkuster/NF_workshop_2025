@@ -1,3 +1,3 @@
-module load nextflow/21.04.3-gcc
+module load nextflow/23.10.0
 nextflow -version
 singularity --version
